@@ -1,0 +1,10 @@
+Protein
+Carbohydrate
+Saturate
+Saturated
+Energy
+Fibre
+kcal
+kj
+Each serving contains
+Reference intake
